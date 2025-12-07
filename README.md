@@ -35,8 +35,8 @@ Explore the dashboard using slicers, filters, and visual charts
 Modify visuals or extend the dashboard as needed
 
 **Screenshots**
-<img width="1920" height="1080" alt="3rd ss dashboard" src="https://github.com/user-attachments/assets/e0e57f4c-0c25-4c42-a1de-0b34b70fbc64" />
 <img width="1916" height="953" alt="dashboard" src="https://github.com/user-attachments/assets/8ccc86e8-df62-4d11-99e7-a1a8b4773cf0" />
+
 
 
 
