@@ -1,6 +1,3 @@
-<img width="1920" height="977" alt="2nd" src="https://github.com/user-attachments/assets/68709afd-b8b5-4b8b-bad3-022d2f89f015" />
-<img width="1920" height="978" alt="3rd ss dashboard" src="https://github.com/user-attachments/assets/2b16d580-5006-49df-addf-e7f826d51a25" />
-<img width="1920" height="978" alt="3rd ss dashboard" src="https://github.com/user-attachments/assets/7e637fc9-7af4-42b3-853d-7d4e084ec7fe" />
 # PowerBI_Sales_Sashboard_Project
 This project is an end-to-end Power BI Data Analysis Dashboard, where I transformed raw data into meaningful insights using data cleaning, modeling, DAX measures, and interactive visualizations.
 It showcases my ability to work with analytical tools, create business-focused reports, and present insights clearly for decision-making.
